@@ -1,0 +1,58 @@
+.gna_grey_box {
+    margin: 10px 0 15px;
+    background-color: #ececec;
+    border: 1px solid #cfcfcf;
+    padding: 0.5em 0 0.5em 1em;
+}
+
+.gna_yellow_box {
+    margin: 10px 0 15px;
+    background-color: #ffffe0;
+    border-color: #e6db55;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 0 0.5em 1em;
+}
+
+.gna_blue_box {
+    margin: 10px 0 15px;
+    background-color: #f0f9ff;
+    border-color: #1166bb;
+    color: #1166bb;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 0 0.5em 1em;
+    line-height: 20px;
+}
+
+.gna_green_box {
+    margin: 10px 0 15px;
+    background-color: #ccf4d6;
+    border-color: #059b53;
+    color: #043b14;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 0 0.5em 1em;
+}
+
+.gna_red_box {
+    margin: 10px 0 15px;
+    background-color: #ffebe8;
+    border-color: #cc0000;
+    color: #333333;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5em 0 0.5em 1em;
+}
+
+#g_adminlogin_custom_css {
+	position: relative;
+	width: 100%;
+	max-width: 100%;
+	height: 375px;
+	line-height: 1.75em;
+}
